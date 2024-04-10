@@ -1,15 +1,22 @@
-# NM_ASHMITHA-R_FRIDAYBATCH_FSWD_PROJECT
-
-Name: ASHMITHA R
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID: au960221104033
+Project implemented by: 
 
 
-College Name: Arunachala College of Engineering for Women
+Name:
 
 
-Username: admin_33
+ID:
 
 
-Password: admin_33
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
